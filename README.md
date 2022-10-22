@@ -18,6 +18,7 @@ Odam Blog Website
 * [MIRAGEJS](https://miragejs.com/)
 * [AXIOS](https://axios-http.com/)
 * [GIT](https://git-scm.com/)
+* [STYLED COMPONENTS](https://styled-components.com/)
 
 ## 👨‍💻 Contributers:
 - [oam-victor](https://github.com/oam-victor)
